@@ -7,14 +7,17 @@
 
 # Site Settings
 title                    : "Yuning Shi"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A Chinese student studying abroad in Japan, focusing on AI and robotics.   **"Skills:
+Software: Python, PyTorch, MATLAB, C/C++
+Languages: Chinese, Japanese, English"**"
+
 repository               : "Yuning-Shi/yuning-shi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
+# SEO Related  
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
