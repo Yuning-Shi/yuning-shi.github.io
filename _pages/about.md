@@ -21,6 +21,7 @@ I am a final-year master's student in Electrical Engineering and Computer Scienc
 
 My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and life-support robots.
 
+I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉 Two papers accepted by ICIAI 2025.
