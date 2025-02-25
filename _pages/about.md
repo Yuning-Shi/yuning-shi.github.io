@@ -52,3 +52,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 # 💻 Work Experience
 - *2023.01 - 2024.12*, **AI Engineer**, Matsuo Institute, Inc., Japan.
 - *2022.04 - 2023.3*, **Student Assistant**, Tokyo Denki University, Japan.
+
+# 💬 Activities
+- *2023.02*, The 8th China-Japan Conference on Education Exchange & Cooperation, Topic: Deep Learning-based On-road Object Detection for Autonomous Driving.
+- *2022.07*, The 5th Japan Study Abroad Online Education Fair, Topic: Tokyo Denki University and the AI Lab.
