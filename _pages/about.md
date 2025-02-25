@@ -23,7 +23,13 @@ My research interests include computer vision, vision and language, machine lear
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Two of our papers have been accepted by ICIAI 2025 and will be presented in Singapore from March 13 to 15, 2025. 
+- *2025.01*: &nbsp;🎉 Two papers accepted by ICIAI 2025.
+- *2024.01*: &nbsp;🎉 One paper accepted by ICMLC 2024.
+- *2023.08*: &nbsp;🎉 One paper accepted by CyberC 2023.
+- *2023.04*: &nbsp;🎉 I enrolled at Shibaura Institute of Technology to conduct research on medical AI.
+- *2023.03*: &nbsp;🎉 I graduated from Tokyo Denki University with a Bachelor of Science degree.
+- *2023.01*: &nbsp;🎉 I joined Matsuo Institute, Inc. as an AI Engineer in Tokyo, Japan.
+- *2022.11*: &nbsp;🎉 One paper accepted by WSPML 2022.
 
 # 📝 Publications 
 - **Yuning Shi** and Masaomi Kimura, “Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
