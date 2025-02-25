@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Yuning Shi"
-description              : "A Chinese student studying abroad in Japan, focusing on AI and robotics.   **"Skills:
-Software: Python, PyTorch, MATLAB, C/C++
-Languages: Chinese, Japanese, English"**"
+description              : "A Chinese student studying abroad in Japan, focusing on AI and robotics. \nLanguages: Chinese, Japanese, English \nSoftware: Python, PyTorch, MATLAB, C/C++"
 
 repository               : "Yuning-Shi/yuning-shi.github.io"
 google_scholar_stats_use_cdn : true
