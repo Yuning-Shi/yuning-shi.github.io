@@ -27,28 +27,20 @@ My research interests include computer vision, vision and language, machine lear
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Yuning Shi** and Masaomi Kimura, “Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “BERT-Based Models with Attention Mechanism and Lambda Layer for Biomedical Named Entity Recognition”, Proceedings of the 2024 16th International Conference on Machine Learning and Computing (ICMLC), pp. 536–544, Feb. 2-5, 2024. DOI: 10.1145/3651671.3651709.
+- Yuning Shi and Akinori Hidaka, “Improvement in On-road Object Detection Using YOLOv7 with High-order Spatial Interaction and Attention Mechanism”, Proceedings of 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), pp. 249-258, Nov. 2-4, 2023. DOI: 10.1109/CyberC58899.2023.00047.
+- **Yuning Shi** and Akinori Hidaka, “Attention-YOLOX: Improvement in On-road Object Detection by Introducing Attention Mechanisms to YOLOX”, Proceedings of 2022 International Symposium on Computing and Artificial Intelligence (ISCAI), pp. 5-14, Dec. 16-18, 2022. DOI: 10.1109/ISCAI58869.2022.00012.
 
 # 📖 Educations
-- *2023.04 - 2025.03 (now)*, M.E. Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
-- *2019.04 - 2023.03*, B.E. Division of Science, Tokyo Denki University, Japan.
+- *2023.04 - 2025.03 (now)*, **M.E.** Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
+- *2019.04 - 2023.03*, **B.E.** Division of Science, Tokyo Denki University, Japan.
 
 # 🏆 Honors
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💻 Internships
-- *2023.01 - 2024.12*, AI Engineer, Matsuo Institute, Inc., Japan.
+# 💻 Work Experience
+- *2023.01 - 2024.12*, **AI Engineer**, Matsuo Institute, Inc., Japan.
+- *2022.04 - 2023.3*, **Student Assistant**, Tokyo Denki University, Japan.
