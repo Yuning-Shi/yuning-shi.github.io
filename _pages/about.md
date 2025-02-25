@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year master's student in Electrical Engineering and Computer Science at Shibaura Institute of Technology, Japan. Previously, I obtained my bachelor's degree from the Division of Science at Tokyo Denki University, where I majored in Mathematical Informatics and Mathematics.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and life-support robots.
 
 
 # 🔥 News
