@@ -29,8 +29,10 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 - *2023.08*: &nbsp;🎉 One paper accepted by CyberC 2023.
 - *2023.04*: &nbsp;🎉 I enrolled at Shibaura Institute of Technology to conduct research on medical AI.
 - *2023.03*: &nbsp;🎉 I graduated from Tokyo Denki University with a Bachelor of Science degree.
+- *2023.02*: &nbsp;🎉 I attended the 8th China-Japan Conference on Education Exchange & Cooperation, where I introduced my current research.
 - *2023.01*: &nbsp;🎉 I joined Matsuo Institute, Inc. as an AI Engineer in Tokyo, Japan.
 - *2022.11*: &nbsp;🎉 One paper accepted by WSPML 2022.
+- *2022.07*: &nbsp;🎉 I attended the 5th Japan Study Abroad Online Education Fair, where I introduced Tokyo Denki University and the AI Lab.
 
 # 📝 Publications 
 - **Yuning Shi** and Masaomi Kimura, “Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
