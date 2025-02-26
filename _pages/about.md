@@ -24,14 +24,14 @@ My research interests include computer vision, vision and language, machine lear
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉 Two papers accepted by ICIAI 2025.
-- *2024.01*: &nbsp;🎉 One paper accepted by ICMLC 2024.
-- *2023.08*: &nbsp;🎉 One paper accepted by CyberC 2023.
+- *2025.01*: &nbsp;🎉 Two papers were accepted by ICIAI 2025.
+- *2024.01*: &nbsp;🎉 One paper was accepted by ICMLC 2024.
+- *2023.08*: &nbsp;🎉 One paper was accepted by CyberC 2023.
 - *2023.04*: &nbsp;🎉 I enrolled at Shibaura Institute of Technology to conduct research on medical AI.
 - *2023.03*: &nbsp;🎉 I graduated from Tokyo Denki University with a Bachelor of Science degree.
 - *2023.02*: &nbsp;🎉 I attended the 8th China-Japan Conference on Education Exchange & Cooperation, where I introduced my current research.
 - *2023.01*: &nbsp;🎉 I joined Matsuo Institute, Inc. as an AI Engineer in Tokyo.
-- *2022.11*: &nbsp;🎉 One paper accepted by WSPML 2022.
+- *2022.11*: &nbsp;🎉 One paper was accepted by WSPML 2022.
 - *2022.07*: &nbsp;🎉 I attended the 5th Japan Study Abroad Online Education Fair, where I introduced Tokyo Denki University and the AI Lab.
 
 # 📝 Publications 
