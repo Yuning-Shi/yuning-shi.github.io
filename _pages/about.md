@@ -60,4 +60,4 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 
 # 💬 Activities
 - *2023.02*, The 8th China-Japan Conference on Education Exchange & Cooperation, Speech Topic: Deep Learning-based On-road Object Detection for Autonomous Driving.
-- *2022.07*, The 5th Japan Study Abroad Online Education Fair, Speech Topic: Tokyo Denki University and the AI Lab.
+- *2022.07*, The 5th Japan Study Abroad Online Education Fair, Speech Topic: Tokyo Denki University and AI Lab.
