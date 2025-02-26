@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year master's student in Electrical Engineering and Computer Science at Shibaura Institute of Technology, Japan. Previously, I obtained my bachelor's degree from the Division of Science at Tokyo Denki University, where I majored in Mathematical Informatics and Mathematics.
 
-My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and life-support robots.
+My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and human support robots.
 
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
