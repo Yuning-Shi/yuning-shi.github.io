@@ -43,7 +43,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 
 # 📖 Educations
 - *2023.04 - 2025.03 (now)*, **M.E.** Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
-- *2019.04 - 2023.03*, **B.E.** Division of Science, Tokyo Denki University, Japan (Top 2%).
+- *2019.04 - 2023.03*, **B.E.** Division of Science, Tokyo Denki University, Japan. (Top 2%)
 
 # 🏆 Honors
 - *2024.04 - 2025.03*, **Oriental Motor Scholarship Foundation Scholarship**
