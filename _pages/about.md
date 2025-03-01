@@ -42,7 +42,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 - **Yuning Shi** and Akinori Hidaka, “Attention-YOLOX: Improvement in On-road Object Detection by Introducing Attention Mechanisms to YOLOX”, Proceedings of 2022 International Symposium on Computing and Artificial Intelligence (ISCAI), pp. 5-14, Dec. 16-18, 2022. DOI: 10.1109/ISCAI58869.2022.00012.
 
 # 📖 Educations
-- *2023.04 - 2025.03 (now)*, **M.E.** Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
+- *2023.04 - 2025.03*, **M.E.** Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
 - *2019.04 - 2023.03*, **B.E.** Division of Science, Tokyo Denki University, Japan. (Top 2%)
 
 # 🏆 Honors
