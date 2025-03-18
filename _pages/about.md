@@ -24,6 +24,7 @@ My research interests include computer vision, vision and language, machine lear
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 I graduated from Shibaura Institute of Technology with a Master’s degree in Engineering.
 - *2025.01*: &nbsp;🎉 Two papers were accepted by ICIAI 2025.
 - *2024.01*: &nbsp;🎉 One paper was accepted by ICMLC 2024.
 - *2023.08*: &nbsp;🎉 One paper was accepted by CyberC 2023.
