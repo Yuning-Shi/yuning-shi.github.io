@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year master's student in Electrical Engineering and Computer Science at Shibaura Institute of Technology, Japan. Previously, I obtained my bachelor's degree from the Division of Science at Tokyo Denki University, where I majored in Mathematical Informatics and Mathematics.
+I am currently a first-year Ph.D. student in the Department of Mechanical Systems Engineering at Tokyo Metropolitan University, advised by Professor Naoyuki Kubota in the Intelligent Robotics Lab. Before that, I obtained my bachelor’s degree from the Division of Science at Tokyo Denki University, where I conducted research in the Artificial Intelligence Lab. I also completed my master’s degree in Electrical Engineering and Computer Science at Shibaura Institute of Technology, where I worked in the Data Engineering Lab. 
 
 My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and human support robots.
 
