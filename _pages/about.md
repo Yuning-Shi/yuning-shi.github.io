@@ -21,7 +21,7 @@ I am currently a first-year Ph.D. student in the Department of Mechanical System
 
 My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and human support robots.
 
-I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, Matlab, and C/C++.
+I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 I graduated from Shibaura Institute of Technology with a Master’s degree in Engineering.
