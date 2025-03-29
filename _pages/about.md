@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student in the Department of Mechanical Systems Engineering at Tokyo Metropolitan University, advised by Professor Naoyuki Kubota in the Intelligent Robotics Lab. Before that, I obtained my bachelor’s degree from the Division of Science at Tokyo Denki University, where I conducted research in the Artificial Intelligence Lab. I also completed my master’s degree in Electrical Engineering and Computer Science at Shibaura Institute of Technology, where I worked in the Data Engineering Lab. 
 
-My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and human support robots.
+My research interests include computer vision, vision and language, machine learning, and deep learning, with a particular focus on their applications in autonomous driving, medical diagnostics, and human-support robotics.
 
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
