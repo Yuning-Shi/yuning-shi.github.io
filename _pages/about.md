@@ -52,13 +52,16 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 - *2019.04 - 2023.03*, **B.Sci.** Division of Science, Tokyo Denki University, Japan. (Top 2%)
 
 # 🏆 Honors
-- *2024.04 - 2025.03*, **Oriental Motor Scholarship Foundation Scholarship**
-- *2022.04 - 2023.03*, **Rotary Yoneyama Memorial Foundation Scholarship**
-- *2021.09 - 2022.03*, **MEXT Scholarship**
-- *2021*, **JGC-S Scholarship Foundation Scholarship**
-- *2020.04 - 2021.08*, **Penguin Scholarship Foundation Scholarship**
-- *2020*, **Tokyo Denki University Academic Promotion Fund Scholarship**
-- *2019*, **Tokyo Denki University Academic Promotion Fund Scholarship**
+**Award**
+  - *2025*, **Best Presentation Paper Award**, IWACIII 2025
+**Scholarship**
+  - *2024.04 - 2025.03*, **Oriental Motor Scholarship Foundation Scholarship**
+  - *2022.04 - 2023.03*, **Rotary Yoneyama Memorial Foundation Scholarship**
+  - *2021.09 - 2022.03*, **MEXT Scholarship**
+  - *2021*, **JGC-S Scholarship Foundation Scholarship**
+  - *2020.04 - 2021.08*, **Penguin Scholarship Foundation Scholarship**
+  - *2020*, **Tokyo Denki University Academic Promotion Fund Scholarship**
+  - *2019*, **Tokyo Denki University Academic Promotion Fund Scholarship**
 
 # 💻 Work Experience
 - *2023.01 - 2024.12*, **AI Engineer**, Matsuo Institute, Inc., Japan.
