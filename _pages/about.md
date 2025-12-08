@@ -39,6 +39,8 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 - *2022.07*: &nbsp;🎉 I attended the 5th Japan Study Abroad Online Education Fair, where I introduced Tokyo Denki University and AI Lab.
 
 # 📝 Publications 
+- **Yuning Shi**, Yuqi Zhang, Qingwei Song, Han Shi and Naoyuki Kubota, “Transfer Learning for Low-Resource Human Daily Action Recognition Using Topological Memory and Gated Attention Fusion”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
+- Yuqi Zhang, **Yuning Shi**, Han Shi and Naoyuki Kubota, “Synergistic Multi-Task BERT Framework for Event Extraction and Self-Efficacy Assessment in Rehabilitation Chatbot Dialogues”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
 - **Yuning Shi** and Masaomi Kimura, “Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
 - **Yuning Shi** and Masaomi Kimura, “TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
 - **Yuning Shi** and Masaomi Kimura, “[BERT-Based Models with Attention Mechanism and Lambda Layer for Biomedical Named Entity Recognition](https://dl.acm.org/doi/abs/10.1145/3651671.3651709)”, Proceedings of the 2024 16th International Conference on Machine Learning and Computing (ICMLC), pp. 536–544, Feb. 2-5, 2024. DOI: 10.1145/3651671.3651709.
