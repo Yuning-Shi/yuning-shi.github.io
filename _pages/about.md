@@ -24,6 +24,8 @@ My research interests include generative AI, multimodal learning, computer visio
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 One paper received the Best Presentation Paper Award at IWACIII 2025.
+- *2025.10*: &nbsp;🎉 Two papers were accepted by IWACIII 2025.
 - *2025.04*: &nbsp;🎉 I joined the Intelligent Robotics Lab at Tokyo Metropolitan University to conduct research on embodied intelligence.
 - *2025.03*: &nbsp;🎉 I graduated from Shibaura Institute of Technology with a Master’s degree in Engineering.
 - *2025.01*: &nbsp;🎉 Two papers were accepted by ICIAI 2025.
