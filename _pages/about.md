@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student in the Department of Mechanical Systems Engineering at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), advised by Professor Naoyuki Kubota in the [Intelligent Robotics Lab](https://en.kub-lab.jp/). Before that, I obtained my bachelor’s degree from the Division of Science at [Tokyo Denki University](https://www.dendai.ac.jp/en/), where I conducted research in the [Artificial Intelligence Lab](https://tdu-ai-lab.github.io/). I also completed my master’s degree in Electrical Engineering and Computer Science at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/), where I worked in the [Data Engineering Lab](https://www.shibaura-it.ac.jp/en/research/laboratory/00074.html). 
+I am currently a second-year Ph.D. student in the Department of Mechanical Systems Engineering at [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html), advised by Professor Naoyuki Kubota in the [Intelligent Robotics Lab](https://en.kub-lab.jp/). Before that, I obtained my bachelor’s degree from the Division of Science at [Tokyo Denki University](https://www.dendai.ac.jp/en/), where I conducted research in the [Artificial Intelligence Lab](https://tdu-ai-lab.github.io/). I also completed my master’s degree in Electrical Engineering and Computer Science at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/), where I worked in the [Data Engineering Lab](https://www.shibaura-it.ac.jp/en/research/laboratory/00074.html). 
 
 My research interests include deep learning, computer vision, vision-and-language, and embodied intelligence, with a focus on their applications in autonomous driving, human activity recognition, medical diagnostics, and robotics.
 
@@ -66,6 +66,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
   - *2019*, **Tokyo Denki University Academic Promotion Fund Scholarship**
 
 # 💻 Work Experience
+- *2025.05 - 2026.03*, **Temporary Staff**, Tokyo Metropolitan University, Japan.
 - *2023.01 - 2024.12*, **AI Engineer**, Matsuo Institute, Inc., Japan.
 - *2022.04 - 2023.03*, **Student Assistant**, Tokyo Denki University, Japan.
 
