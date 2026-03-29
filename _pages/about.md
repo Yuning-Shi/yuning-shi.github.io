@@ -41,8 +41,8 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 # 📝 Publications 
 - **Yuning Shi**, Yuqi Zhang, Qingwei Song, Han Shi and Naoyuki Kubota, “Transfer Learning for Low-Resource Human Daily Action Recognition Using Topological Memory and Gated Attention Fusion”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
 - Yuqi Zhang, **Yuning Shi**, Han Shi and Naoyuki Kubota, “Synergistic Multi-Task BERT Framework for Event Extraction and Self-Efficacy Assessment in Rehabilitation Chatbot Dialogues”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
-- **Yuning Shi** and Masaomi Kimura, “Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
-- **Yuning Shi** and Masaomi Kimura, “TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “[Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_32)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “[TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_22)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
 - **Yuning Shi** and Masaomi Kimura, “[BERT-Based Models with Attention Mechanism and Lambda Layer for Biomedical Named Entity Recognition](https://dl.acm.org/doi/abs/10.1145/3651671.3651709)”, Proceedings of the 2024 16th International Conference on Machine Learning and Computing (ICMLC), pp. 536–544, Feb. 2-5, 2024. DOI: 10.1145/3651671.3651709.
 - **Yuning Shi** and Akinori Hidaka, “[Improvement in On-road Object Detection Using YOLOv7 with High-order Spatial Interaction and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10438763)”, Proceedings of 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), pp. 249-258, Nov. 2-4, 2023. DOI: 10.1109/CyberC58899.2023.00047.
 - **Yuning Shi** and Akinori Hidaka, “[Attention-YOLOX: Improvement in On-road Object Detection by Introducing Attention Mechanisms to YOLOX](https://ieeexplore.ieee.org/abstract/document/10380042)”, Proceedings of 2022 International Symposium on Computing and Artificial Intelligence (ISCAI), pp. 5-14, Dec. 16-18, 2022. DOI: 10.1109/ISCAI58869.2022.00012.
@@ -56,11 +56,12 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
   - *2025*, **Best Presentation Paper Award**, IWACIII 2025
 
 **Scholarship**
-  - *2024.04 - 2025.03*, **Oriental Motor Scholarship Foundation Scholarship**
+  - *2026.04 - 2028.03*, **Takayama International Education Foundation Scholarship**
+  - *2024.04 - 2025.03*, **Oriental Motor Foundation Scholarship**
   - *2022.04 - 2023.03*, **Rotary Yoneyama Memorial Foundation Scholarship**
   - *2021.09 - 2022.03*, **MEXT Scholarship**
-  - *2021*, **JGC-S Scholarship Foundation Scholarship**
-  - *2020.04 - 2021.08*, **Penguin Scholarship Foundation Scholarship**
+  - *2021*, **JGC-S Foundation Scholarship**
+  - *2020.04 - 2021.08*, **Penguin Foundation Scholarship**
   - *2020*, **Tokyo Denki University Academic Promotion Fund Scholarship**
   - *2019*, **Tokyo Denki University Academic Promotion Fund Scholarship**
 
