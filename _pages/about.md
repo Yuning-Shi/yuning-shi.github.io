@@ -56,7 +56,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
   - *2025*, **Best Presentation Paper Award**, IWACIII 2025
 
 **Scholarship**
-  - *2026.04 - 2028.03*, **Takayama International Education Foundation Scholarship**
+  - *2026.04 - Now*, **Takayama International Education Foundation Scholarship**
   - *2024.04 - 2025.03*, **Oriental Motor Foundation Scholarship**
   - *2022.04 - 2023.03*, **Rotary Yoneyama Memorial Foundation Scholarship**
   - *2021.09 - 2022.03*, **MEXT Scholarship**
