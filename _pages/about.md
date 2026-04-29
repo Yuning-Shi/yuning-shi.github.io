@@ -24,6 +24,7 @@ My research interests include deep learning, computer vision, vision-and-languag
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Two papers were accepted by ICMLC 2026.
 - *2025.11*: &nbsp;🎉 One paper received the Best Presentation Paper Award at IWACIII 2025.
 - *2025.10*: &nbsp;🎉 Two papers were accepted by IWACIII 2025.
 - *2025.04*: &nbsp;🎉 I joined the Intelligent Robotics Lab at Tokyo Metropolitan University to conduct research on embodied intelligence.
