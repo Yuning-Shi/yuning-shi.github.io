@@ -24,6 +24,9 @@ My research interests include deep learning, computer vision, vision-and-languag
 I speak, read, and write in Chinese, Japanese, and English. In terms of software skills, I can work with Python, PyTorch, MATLAB, and C/C++.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 One journal paper was accepted by Multimedia Systems.
+- *2026.10*: &nbsp;🎉 One journal paper was accepted by International Journal of Machine Learning and Cybernetics (IJMLC).
+- *2026.09*: &nbsp;🎉 One paper was accepted by SCIS&ISIS 2026.
 - *2026.04*: &nbsp;🎉 Two papers were accepted by ICMLC 2026.
 - *2025.11*: &nbsp;🎉 One paper received the Best Presentation Paper Award at IWACIII 2025.
 - *2025.10*: &nbsp;🎉 Two papers were accepted by IWACIII 2025.
@@ -40,13 +43,15 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
 - *2022.07*: &nbsp;🎉 I attended the 5th Japan Study Abroad Online Education Fair, where I introduced Tokyo Denki University and AI Lab.
 
 # 📝 Publications 
-- **Yuning Shi**, Yuqi Zhang, Qingwei Song, Han Shi and Naoyuki Kubota, “Transfer Learning for Low-Resource Human Daily Action Recognition Using Topological Memory and Gated Attention Fusion”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
-- Yuqi Zhang, **Yuning Shi**, Han Shi and Naoyuki Kubota, “Synergistic Multi-Task BERT Framework for Event Extraction and Self-Efficacy Assessment in Rehabilitation Chatbot Dialogues”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Oct 31-Nov 4, 2025. 
-- **Yuning Shi** and Masaomi Kimura, “[Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_32)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
-- **Yuning Shi** and Masaomi Kimura, “[TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_22)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Mar. 13-15, 2025.
-- **Yuning Shi** and Masaomi Kimura, “[BERT-Based Models with Attention Mechanism and Lambda Layer for Biomedical Named Entity Recognition](https://dl.acm.org/doi/abs/10.1145/3651671.3651709)”, Proceedings of the 2024 16th International Conference on Machine Learning and Computing (ICMLC), pp. 536–544, Feb. 2-5, 2024. DOI: 10.1145/3651671.3651709.
-- **Yuning Shi** and Akinori Hidaka, “[Improvement in On-road Object Detection Using YOLOv7 with High-order Spatial Interaction and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10438763)”, Proceedings of 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), pp. 249-258, Nov. 2-4, 2023. DOI: 10.1109/CyberC58899.2023.00047.
-- **Yuning Shi** and Akinori Hidaka, “[Attention-YOLOX: Improvement in On-road Object Detection by Introducing Attention Mechanisms to YOLOX](https://ieeexplore.ieee.org/abstract/document/10380042)”, Proceedings of 2022 International Symposium on Computing and Artificial Intelligence (ISCAI), pp. 5-14, Dec. 16-18, 2022. DOI: 10.1109/ISCAI58869.2022.00012.
+- **Yuning Shi**, Han Shi, Qingwei Song and Naoyuki Kubota, “ASFNet: Joint Appearance, Structure, and Frequency Modeling for Action Recognition”, International Conference on Machine Learning and Cybernetics (ICMLC), Cagliari, Italy, July 12–15, 2026.
+- Han Shi, **Yuning Shi**, Qingwei Song and Naoyuki Kubota, “CNN-LSTM with Temporal Attention and DCT-Based Frequency Enhancement for ADL Recognition in Trailer Living Lab”, International Conference on Machine Learning and Cybernetics (ICMLC), Cagliari, Italy, July 12–15, 2026. 
+- **Yuning Shi**, Yuqi Zhang, Qingwei Song, Han Shi and Naoyuki Kubota, “[Transfer Learning for Low-Resource Human Daily Action Recognition Using Topological Memory and Gated Attention Fusion](https://link.springer.com/chapter/10.1007/978-981-95-6739-3_24)”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Zhuhai&Beijing, China, Oct 31-Nov 4, 2025. 
+- Yuqi Zhang, **Yuning Shi**, Han Shi and Naoyuki Kubota, “[Synergistic Multi-Task BERT Framework for Event Extraction and Self-Efficacy Assessment in Rehabilitation Chatbot Dialogues](https://link.springer.com/chapter/10.1007/978-981-95-6739-3_17)”, The 9th International Workshop on Advanced Computational Intelligence and Intelligent Informatics (IWACIII), Zhuhai&Beijing, China, Oct 31-Nov 4, 2025. 
+- **Yuning Shi** and Masaomi Kimura, “[Correlate-MobileCap: A Framework for Diagnostic Report Generation Using Lesion and Disease Information](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_32)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Singapore, Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “[TagVisionNet: A Framework for Improving Chest X-ray Classification via Image-Label Feature Matching](https://link.springer.com/chapter/10.1007/978-981-95-0887-7_22)”, 2025 the 9th International Conference on Innovation in Artificial Intelligence (ICIAI), Singapore, Mar. 13-15, 2025.
+- **Yuning Shi** and Masaomi Kimura, “[BERT-Based Models with Attention Mechanism and Lambda Layer for Biomedical Named Entity Recognition](https://dl.acm.org/doi/abs/10.1145/3651671.3651709)”, Proceedings of the 2024 16th International Conference on Machine Learning and Computing (ICMLC), pp. 536–544, Shenzhen, China, Feb. 2-5, 2024. DOI: 10.1145/3651671.3651709.
+- **Yuning Shi** and Akinori Hidaka, “[Improvement in On-road Object Detection Using YOLOv7 with High-order Spatial Interaction and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10438763)”, Proceedings of 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), pp. 249-258, Suzhou, China, Nov. 2-4, 2023. DOI: 10.1109/CyberC58899.2023.00047.
+- **Yuning Shi** and Akinori Hidaka, “[Attention-YOLOX: Improvement in On-road Object Detection by Introducing Attention Mechanisms to YOLOX](https://ieeexplore.ieee.org/abstract/document/10380042)”, Proceedings of 2022 International Symposium on Computing and Artificial Intelligence (ISCAI), pp. 5-14, Beijing, China, Dec. 16-18, 2022. DOI: 10.1109/ISCAI58869.2022.00012.
 
 # 📖 Educations
 - *2023.04 - 2025.03*, **M.Eng.** Electrical Engineering and Computer Science, Shibaura Institute of Technology, Japan. 
@@ -67,6 +72,7 @@ I speak, read, and write in Chinese, Japanese, and English. In terms of software
   - *2019*, **Tokyo Denki University Academic Promotion Fund Scholarship**
 
 # 💻 Work Experience
+- *2026.06 - Now*, **Staff**, ToPoRoBo Laboratory, Japan.
 - *2025.05 - 2026.03*, **Temporary Staff**, Tokyo Metropolitan University, Japan.
 - *2023.01 - 2024.12*, **AI Engineer**, Matsuo Institute, Inc., Japan.
 - *2022.04 - 2023.03*, **Student Assistant**, Tokyo Denki University, Japan.
